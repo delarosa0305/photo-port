@@ -1,3 +1,4 @@
+// __tests__/Modal.test.js with hard coded categories
 import React from 'react';
 import { render, cleanup, fireEvent } from '@testing-library/react';
 import '@testing-library/jest-dom/extend-expect';
